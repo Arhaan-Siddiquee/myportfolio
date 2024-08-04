@@ -1,44 +1,50 @@
-# vCard - Personal portfolio
+Portfolio Website
+Welcome to my portfolio website! This site showcases my work, projects, and skills. It’s designed to provide a comprehensive overview of my capabilities and experience. Below you'll find details on how to get started, the technologies used, and the structure of the site.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Table of Contents
+Description
+Features
+Technologies
+Installation
+Usage
+Contributing
+License
+Description
+This portfolio website is a personal project designed to highlight my work in [your field, e.g., web development, graphic design, etc.]. It includes sections for my resume, a gallery of projects, and a contact form.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+Features
+Home Page: An introduction to who I am and what I do.
+Projects: A showcase of my work with detailed descriptions.
+Resume: Downloadable copy of my resume.
+Contact Form: Allows visitors to get in touch with me.
+Responsive Design: Optimized for all devices, from desktops to mobile phones.
+Technologies
+HTML5: For structuring the content.
+CSS3: For styling and layout.
+JavaScript: For interactivity and dynamic content.
+[Any other technologies or frameworks used]
+Installation
+To run this portfolio website locally:
 
-## Demo
+Clone the repository:
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+bash
+Copy code
+git clone https://github.com/yourusername/portfolio-website.git
+Navigate to the project directory:
 
-## Prerequisites
+bash
+Copy code
+cd portfolio-website
+Open the index.html file in your web browser.
 
-Before you begin, ensure you have met the following requirements:
+Usage
+Homepage: Contains a brief introduction and links to other sections.
+Projects: Browse through my work and click on any project for more details.
+Resume: Download a copy of my resume by clicking the download button.
+Contact Form: Fill out the form to get in touch with me.
+Contributing
+If you’d like to contribute to this project, please fork the repository and submit a pull request with your changes. Make sure to follow the coding standards and provide a clear description of your changes.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
